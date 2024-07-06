@@ -14,7 +14,6 @@ Selamat datang di repositori **"Sistem Pencarian Destinasi Wisata Sederhana Meng
 
 - **Kemudahan Pencarian**: Membantu pengguna mencari daftar destinasi wisata dengan cepat dan efisien.
 - **Informasi Detil**: Memberikan informasi lengkap tentang destinasi wisata yang dapat dijadikan referensi untuk berlibur.
-- **Antarmuka Ramah Pengguna**: Mudah digunakan oleh semua kalangan, termasuk orang tua.
 
 ## Kekurangan
 
