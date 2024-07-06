@@ -1,7 +1,7 @@
 # Sistem Pencarian Destinasi Wisata Sederhana Menggunakan Algoritma Linear Search dan Bubble Sort Berbasis GUI
 Proyek ini merupakan proyek akhir dari mata kuliah Struktur Data dan Algoritma pada semester 2
 
-Selamat datang di repositori **"Sistem Pencarian Destinasi Wisata Sederhana Menggunakan Algoritma Linear Search dan Bubble Sort Berbasis GUI"**! Proyek ini adalah aplikasi desktop berbasis GUI (Graphical User Interface) yang dikembangkan menggunakan Python dan library Tkinter. Aplikasi ini dirancang untuk mempermudah pengguna dalam mencari dan mengurutkan destinasi wisata di wilayah Jawa Timur.
+Proyek ini adalah aplikasi desktop berbasis GUI (Graphical User Interface) yang dikembangkan menggunakan Python dan library Tkinter. Aplikasi ini dirancang untuk mempermudah pengguna dalam mencari dan mengurutkan destinasi wisata di wilayah Jawa Timur.
 
 ## Fitur Utama
 
